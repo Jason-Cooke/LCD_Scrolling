@@ -1,10 +1,10 @@
 LCD Scrolling
 =========
 
-This is a very simple module meant to be used with Johnny-five on your arduino/Raspberry Pie project.
-The module detect if your text is bigger than the space offered by your LCD. If it's bigger the module will apply a sort of scrolling effect on the text so all the information is displayed and readeable.
+This is a very simple module meant to be used with Johnny-five on your Arduino/Raspberry Pie project.
+The module detects if your text is bigger than the space offered by your LCD. If it's bigger the module will apply a sort of scrolling effect on the text so all the information is displayed and readeable.
 
-This module remain very simple and don't offer many features yet but feel free to post pull request. I'll extend this module with multiple animation in the future.
+This module remains very simple and doesn't offer many features yet, but feel free to post pull a request. I'll extend this module with multiple animations in the future.
 
 ## Installation
 ```bash
